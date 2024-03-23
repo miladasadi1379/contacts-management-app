@@ -1,3 +1,5 @@
+# This project is a dynamic app (recive data from json-server,add contact,delete contact,edit contact and show information contacts,dynamic search,toggle theme)____---____----____ :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
